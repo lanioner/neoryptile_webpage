@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.027e026b.css",
-    "main.js": "./static/js/main.f8d81c4f.js",
+    "main.css": "./static/css/main.8d587360.css",
+    "main.js": "./static/js/main.a1bf55da.js",
     "static/media/bites.mp4": "./static/media/bites.0c34784b891e10f53689.mp4",
     "static/media/about.jfif": "./static/media/about.29509aff1710c9f2bf39.jfif",
     "static/media/mision.jfif": "./static/media/mision.093b364bac391863bb9c.jfif",
     "static/media/vision.jfif": "./static/media/vision.3e13ef50ace17f5913d9.jfif",
-    "static/media/logo.png": "./static/media/logo.04e5aad256dd31ab365c.png",
+    "static/media/logo.png": "./static/media/logo.5caa8f0f92e731752b22.png",
     "index.html": "./index.html",
-    "main.027e026b.css.map": "./static/css/main.027e026b.css.map",
-    "main.f8d81c4f.js.map": "./static/js/main.f8d81c4f.js.map"
+    "main.8d587360.css.map": "./static/css/main.8d587360.css.map",
+    "main.a1bf55da.js.map": "./static/js/main.a1bf55da.js.map"
   },
   "entrypoints": [
-    "static/css/main.027e026b.css",
-    "static/js/main.f8d81c4f.js"
+    "static/css/main.8d587360.css",
+    "static/js/main.a1bf55da.js"
   ]
 }
