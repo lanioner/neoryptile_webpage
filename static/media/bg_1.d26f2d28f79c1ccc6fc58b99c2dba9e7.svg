@@ -1,0 +1,26 @@
+<svg width="1920" height="1080" version="1.1" viewBox="0 0 508 285.75" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <pattern id="pattern64" patternTransform="scale(.3)" preserveAspectRatio="xMidYMid" xlink:href="#pattern22"/>
+  <pattern id="pattern16" width="102.04724" height="102.04724" patternTransform="scale(1)" patternUnits="userSpaceOnUse" preserveAspectRatio="xMidYMid">
+   <rect width="102.05" height="102.05" fill="#bebebe"/>
+  </pattern>
+  <pattern id="pattern22" width="102.04724" height="102.04724" patternTransform="scale(1)" patternUnits="userSpaceOnUse" preserveAspectRatio="xMidYMid">
+   <g transform="scale(3.7795)">
+    <rect transform="scale(.26458)" x="-5.371e-14" y="-5.371e-14" width="102.05" height="102.05" fill="url(#pattern16)"/>
+    <text x="7.6262574" y="22.945614" fill="#9a9a9a" font-family="Sans" font-size="26.458px" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.646" xml:space="preserve"><tspan x="7.6262574" y="22.945614" fill="#9a9a9a" font-size="26.458px" stroke-width="2.646">1</tspan></text>
+   </g>
+  </pattern>
+ </defs>
+ <g>
+  <rect x="-1.2434e-14" y="-1.0658e-14" width="508" height="285.75" fill="#bebebe"/>
+  <g transform="scale(.37795)" display="none">
+   <rect transform="scale(.26458)" x="-5.371e-14" y="-5.371e-14" width="102.05" height="102.05" fill="url(#pattern16)"/>
+   <text x="7.6262574" y="22.945614" fill="#9a9a9a" font-family="Sans" font-size="26.458px" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.646" xml:space="preserve"><tspan x="7.6262574" y="22.945614" fill="#9a9a9a" font-size="26.458px" stroke-width="2.646">1</tspan></text>
+  </g>
+  <g transform="scale(.37795)" display="none">
+   <rect transform="scale(.26458)" x="-5.371e-14" y="-5.371e-14" width="102.05" height="102.05" fill="url(#pattern16)"/>
+   <text x="7.6262574" y="22.945614" fill="#9a9a9a" font-family="Sans" font-size="26.458px" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.646" xml:space="preserve"><tspan x="7.6262574" y="22.945614" fill="#9a9a9a" font-size="26.458px" stroke-width="2.646">1</tspan></text>
+  </g>
+  <rect transform="scale(.37795)" x="-3.29e-14" y="-2.82e-14" width="1344.1" height="756.05" fill="url(#pattern64)"/>
+ </g>
+</svg>
