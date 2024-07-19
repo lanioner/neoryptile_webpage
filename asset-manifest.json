@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.9e5dd35a.css",
-    "main.js": "./static/js/main.a37c3671.js",
+    "main.css": "./static/css/main.aec5dba3.css",
+    "main.js": "./static/js/main.ea185df1.js",
     "static/media/bites.mp4": "./static/media/bites.0c34784b891e10f53689.mp4",
     "static/media/about.jfif": "./static/media/about.29509aff1710c9f2bf39.jfif",
     "static/media/mision.jfif": "./static/media/mision.093b364bac391863bb9c.jfif",
     "static/media/vision.jfif": "./static/media/vision.3e13ef50ace17f5913d9.jfif",
     "static/media/logo.png": "./static/media/logo.05022b624615cec3a81a.png",
     "static/media/bg_1.svg": "./static/media/bg_1.d26f2d28f79c1ccc6fc58b99c2dba9e7.svg",
+    "static/media/youtube.svg": "./static/media/youtube.361fd800e39dcb080516df2e39c7a994.svg",
+    "static/media/tiktok.svg": "./static/media/tiktok.de6a500320d1da2a6f51436abd2eec1a.svg",
+    "static/media/facebook.svg": "./static/media/facebook.818ee67ff51830d03b7a6836d714cc2b.svg",
+    "static/media/whatsapp.svg": "./static/media/whatsapp.67a44f986df1a6656a146a9ce1cdde32.svg",
     "static/media/close.svg": "./static/media/close.f8cce9d8e61785e46719dbc1d4bf0915.svg",
     "static/media/menu.svg": "./static/media/menu.fc12fbd678bea2ce4ec9524cbe12a170.svg",
     "index.html": "./index.html",
-    "main.9e5dd35a.css.map": "./static/css/main.9e5dd35a.css.map",
-    "main.a37c3671.js.map": "./static/js/main.a37c3671.js.map"
+    "static/media/x.svg": "./static/media/x.08458349a4f5cde9c47b5e39035c68c0.svg",
+    "main.aec5dba3.css.map": "./static/css/main.aec5dba3.css.map",
+    "main.ea185df1.js.map": "./static/js/main.ea185df1.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e5dd35a.css",
-    "static/js/main.a37c3671.js"
+    "static/css/main.aec5dba3.css",
+    "static/js/main.ea185df1.js"
   ]
 }
