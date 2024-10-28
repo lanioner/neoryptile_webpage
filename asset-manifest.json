@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.f9b39292.css",
-    "main.js": "./static/js/main.433388ae.js",
+    "main.css": "./static/css/main.87b69ffc.css",
+    "main.js": "./static/js/main.c0d15c4b.js",
     "static/media/bites.mp4": "./static/media/bites.0c34784b891e10f53689.mp4",
     "static/media/about.jfif": "./static/media/about.29509aff1710c9f2bf39.jfif",
     "static/media/mision.jfif": "./static/media/mision.093b364bac391863bb9c.jfif",
@@ -9,6 +9,8 @@
     "static/media/contacto.jfif": "./static/media/contacto.d8d718cfe14775f9fa19.jfif",
     "static/media/logo.png": "./static/media/logo.05022b624615cec3a81a.png",
     "static/media/logo1.png": "./static/media/logo1.254656ed0c1ab555e3db.png",
+    "static/media/usage_icon.webp": "./static/media/usage_icon.c4fcdb215125d6d51217.webp",
+    "static/media/htb_background.svg": "./static/media/htb_background.72a8f51c45a264c0f5d1.svg",
     "static/media/bg_1.svg": "./static/media/bg_1.d26f2d28f79c1ccc6fc58b99c2dba9e7.svg",
     "static/media/youtube.svg": "./static/media/youtube.361fd800e39dcb080516df2e39c7a994.svg",
     "static/media/tiktok.svg": "./static/media/tiktok.de6a500320d1da2a6f51436abd2eec1a.svg",
@@ -18,11 +20,11 @@
     "static/media/menu.svg": "./static/media/menu.fc12fbd678bea2ce4ec9524cbe12a170.svg",
     "index.html": "./index.html",
     "static/media/x.svg": "./static/media/x.08458349a4f5cde9c47b5e39035c68c0.svg",
-    "main.f9b39292.css.map": "./static/css/main.f9b39292.css.map",
-    "main.433388ae.js.map": "./static/js/main.433388ae.js.map"
+    "main.87b69ffc.css.map": "./static/css/main.87b69ffc.css.map",
+    "main.c0d15c4b.js.map": "./static/js/main.c0d15c4b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9b39292.css",
-    "static/js/main.433388ae.js"
+    "static/css/main.87b69ffc.css",
+    "static/js/main.c0d15c4b.js"
   ]
 }
